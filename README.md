@@ -38,7 +38,7 @@ healthcare_backend/
 Run these in PowerShell from the folder where you want the project.
 
 ```powershell
-git clone <your-repo-url> healthcare_backend
+git clone https://github.com/Glix7/healthcare-backend.git healthcare_backend
 cd healthcare_backend
 python -m venv venv
 .\venv\Scripts\Activate.ps1
